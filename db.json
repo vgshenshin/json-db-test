@@ -303,38 +303,6 @@
       "userCreate": "2024-08-01T13:50:00.000Z",
       "adCounter": 20,
       "image": ["/cardMockImage.png"]
-    },
-    {
-      "id": 207032654,
-      "title": "Планшет",
-      "price": 5500,
-      "description": "Современный планшет с диагональю экрана 10 дюймов.",
-      "location": "Санкт-Петербург",
-      "userId": 888,
-      "likes": [723, 356],
-      "promo": "2024-09-14T15:30:00.000Z",
-      "views": 250,
-      "userName": "Алексей",
-      "createAdDate": "2024-09-01T16:45:00.000Z",
-      "userCreate": "2024-07-05T15:10:00.000Z",
-      "adCounter": 18,
-      "image": ["/cardMockImage.png"]
-    },
-    {
-      "id": 217032654,
-      "title": "Костюм",
-      "price": 7500,
-      "description": "Мужской деловой костюм из качественной ткани. Размер 50.",
-      "location": "Екатеринбург",
-      "userId": 667,
-      "likes": [567, 234],
-      "promo": "2024-09-16T10:15:00.000Z",
-      "views": 180,
-      "userName": "Виктор",
-      "createAdDate": "2024-09-03T15:30:00.000Z",
-      "userCreate": "2024-07-08T09:20:00.000Z",
-      "adCounter": 28,
-      "image": ["/cardMockImage.png"]
     }
   ]
 }
